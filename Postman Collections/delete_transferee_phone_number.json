@@ -1,0 +1,87 @@
+{
+  "info": {
+    "_postman_id": "072a6b04-a5be-41f1-82fb-dff12b81521d",
+    "name": "Delete transferee phone number",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/88026/phone/602",
+      "_postman_id": "0e4203b3-bf63-4f2b-82c4-87d7c7cd0926",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/88026/phone/602"
+      },
+      "response": []
+    },
+    {
+      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/654654654564/phone/622654654",
+      "_postman_id": "7dc86feb-811c-421a-a57b-b6a19259cb2c",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/654654654564/phone/622654654"
+      },
+      "response": []
+    },
+    {
+      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/154512121111/phone/622",
+      "_postman_id": "cc80bce3-c0cd-4a01-a8f2-3201319314ae",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/154512121111/phone/622"
+      },
+      "response": []
+    },
+    {
+      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/88120/phone/622",
+      "_postman_id": "58147fe8-08b7-4346-8e1d-b0ff127b981f",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/88120/phone/622"
+      },
+      "response": []
+    },
+    {
+      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/100890/phone/120",
+      "_postman_id": "1506451f-88b9-464f-89c8-f95db5459a18",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/100890/phone/120"
+      },
+      "response": []
+    },
+    {
+      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/559973/phone/876495",
+      "_postman_id": "93231eb5-eb34-43a3-8484-7cdff9209d1d",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/559973/phone/876495"
+      },
+      "response": []
+    }
+  ]
+}
