@@ -1,0 +1,646 @@
+{
+  "info": {
+    "_postman_id": "ab765bf2-dca5-432d-9300-f8bda0f8f1db",
+    "name": "Get call for transferee id",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/09840598W0498",
+      "_postman_id": "65f9a72e-7327-44ce-bc7c-015592528202",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/09840598W0498"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/%5454",
+      "_postman_id": "11ab1d50-04d1-432b-ac84-3a76fba30b54",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/%5454"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/+5454",
+      "_postman_id": "8336f5ff-caee-4427-bf95-a36c0bdd5430",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/+5454"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/-^&",
+      "_postman_id": "929e4d46-c3a1-46aa-ac5b-2947b18e10d2",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/-^&"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/-1010",
+      "_postman_id": "f7fa2af6-4370-4ed4-9a0d-b923594fe9fd",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/-1010"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/kjhkjh",
+      "_postman_id": "463399e8-1381-4a33-b3b8-241bda5db06d",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/kjhkjh"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/",
+      "_postman_id": "c2ab0e3f-c975-4a27-bff0-e5999d84b4cf",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/488719",
+      "_postman_id": "a9e9c0b9-6df3-487a-89ea-c22fadfeab38",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/488719"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/506804",
+      "_postman_id": "368a129a-3cde-4208-be14-7474bc19df45",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/506804"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/551221",
+      "_postman_id": "abcde324-ccc3-44b1-a23d-f3218f03c1e6",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/551221"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562129",
+      "_postman_id": "cea58761-8d48-4b81-9688-a890879c27fe",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562129"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562129",
+      "_postman_id": "a3606a90-d5bd-41cf-a579-e652bc72ac0e",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562129"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/",
+      "_postman_id": "251f87a9-de02-45ea-8120-f00fee6a1e67",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/9999999999",
+      "_postman_id": "339b2963-a6d9-4f8b-a732-9614e8a047bb",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/9999999999"
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+      "_postman_id": "b13c9eb9-4d1d-4711-9648-5e0c9474a3a0",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=367994",
+      "_postman_id": "b51541c9-77f9-4911-82ed-d0ad0f02dc03",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=367994",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": "367994"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+      "_postman_id": "fc596a1a-b2ef-4dc4-afbf-fe0a035323b8",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=367994",
+      "_postman_id": "d43d5684-63cc-48fe-90fa-a0834b87c54f",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=367994",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": "367994"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee//identification?familyId=367994",
+      "_postman_id": "39695033-f874-4147-bdec-399b8f90153f",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee//identification?familyId=367994",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": "367994"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=367994",
+      "_postman_id": "ed2c6120-52ae-4538-b6bd-72a20a86dd13",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=367994",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": "367994"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+      "_postman_id": "71d03675-2da4-4d4b-a2b3-f30de714a7bd",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+      "_postman_id": "13554041-1ac8-408f-bfe0-e34c380c2bd0",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+      "_postman_id": "5023ac6c-dc2b-4c2b-b17a-7fcc0ea8843b",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+      "_postman_id": "cd0a4ebd-57dd-43ae-adc3-27fb38ca875d",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=581905",
+      "_postman_id": "97cb34b4-c3b2-40f7-a303-a8e3a8cd7a1c",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=581905",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": "581905"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=581905",
+      "_postman_id": "8f815602-a6cf-481c-a7b8-c40588512532",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=581905",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562012",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": "581905"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562140/identification?familyId=582043",
+      "_postman_id": "66171f04-c7ff-42f6-a65a-976a50c69d6e",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562140/identification?familyId=582043",
+          "protocol": "http",
+          "host": [
+            "corpqavl204",
+            "corp",
+            "aires",
+            "com"
+          ],
+          "port": "8005",
+          "path": [
+            "aires-assignment-api",
+            "transferee",
+            "562140",
+            "identification"
+          ],
+          "query": [
+            {
+              "key": "familyId",
+              "value": "582043"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
