@@ -4,19 +4,5 @@
     "name": "Delete transferee phone number",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": [
-    {
-      "name": "Delete- Transferee phone number",
-      "id": "0e4203b3-bf63-4f2b-82c4-87d7c7cd0926",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "DELETE",
-        "header": [],
-        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/88026/phone/602"
-      },
-      "response": []
-    }
-  ]
+  "item": []
 }
