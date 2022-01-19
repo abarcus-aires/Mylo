@@ -108,19 +108,6 @@
         "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/488719"
       },
       "response": []
-    },
-    {
-      "name": "Get call for transferee id",
-      "id": "368a129a-3cde-4208-be14-7474bc19df45",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/506804"
-      },
-      "response": []
     }
   ]
 }
