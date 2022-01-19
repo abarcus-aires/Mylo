@@ -4,5 +4,97 @@
     "name": "Delete call for address",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": []
+  "item": [
+    {
+      "name": "DEL- Delete Call for address",
+      "id": "59f05095-36ee-41f7-ac97-b1115c6af08e",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/577590/address/967834"
+      },
+      "response": []
+    },
+    {
+      "name": "DEL- Delete Call for address",
+      "id": "33d19451-5b0c-41c8-b17f-2728110d2ecb",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/578967/address/1040506"
+      },
+      "response": []
+    },
+    {
+      "name": "DEL- Delete Call for address",
+      "id": "489388b0-ace7-432e-9374-ed5ac4d0bda9",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/539986/address/1040507"
+      },
+      "response": []
+    },
+    {
+      "name": "DEL- Delete Call for address",
+      "id": "f71f4834-369a-4f94-9760-a71a263e9b7a",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/561366/address/1040508"
+      },
+      "response": []
+    },
+    {
+      "name": "DEL- Delete Call for address",
+      "id": "2edee4ec-1454-4c96-9ae1-18e8afdd6a55",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/559375/address/1040509"
+      },
+      "response": []
+    },
+    {
+      "name": "DEL- Delete Call for address",
+      "id": "a9854b9c-cc08-4e86-a418-4a784536af98",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/259448/address/402533"
+      },
+      "response": []
+    },
+    {
+      "name": "DEL- Delete Call for address",
+      "id": "1172e092-5799-4323-ad48-45b5b429af4c",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/276881/address/1040510"
+      },
+      "response": []
+    }
+  ]
 }
