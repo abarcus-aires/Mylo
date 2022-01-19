@@ -123,7 +123,7 @@
       "response": []
     },
     {
-      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/assignment/242205/address/1040512",
+      "name": "DEL- Delete Call for address",
       "id": "16659e95-4bc7-423b-bf44-9f9c8e95b79c",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
