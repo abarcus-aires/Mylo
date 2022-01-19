@@ -221,41 +221,6 @@
         }
       },
       "response": []
-    },
-    {
-      "name": "Get call for transferee id",
-      "id": "b51541c9-77f9-4911-82ed-d0ad0f02dc03",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=367994",
-          "protocol": "http",
-          "host": [
-            "corpqavl204",
-            "corp",
-            "aires",
-            "com"
-          ],
-          "port": "8005",
-          "path": [
-            "aires-assignment-api",
-            "transferee",
-            "562012",
-            "identification"
-          ],
-          "query": [
-            {
-              "key": "familyId",
-              "value": "367994"
-            }
-          ]
-        }
-      },
-      "response": []
     }
   ]
 }
