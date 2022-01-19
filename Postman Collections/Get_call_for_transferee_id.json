@@ -136,7 +136,7 @@
       "response": []
     },
     {
-      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562129",
+      "name": "Get call for transferee id",
       "id": "cea58761-8d48-4b81-9688-a890879c27fe",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
