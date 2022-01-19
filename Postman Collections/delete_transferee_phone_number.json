@@ -58,7 +58,7 @@
       "response": []
     },
     {
-      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/100890/phone/120",
+      "name": "Delete- Transferee phone number",
       "id": "1506451f-88b9-464f-89c8-f95db5459a18",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
