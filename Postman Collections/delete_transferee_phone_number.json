@@ -71,7 +71,7 @@
       "response": []
     },
     {
-      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/559973/phone/876495",
+      "name": "Delete- Transferee phone number",
       "id": "93231eb5-eb34-43a3-8484-7cdff9209d1d",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
