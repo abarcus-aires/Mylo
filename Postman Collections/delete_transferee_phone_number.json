@@ -17,19 +17,6 @@
         "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/88026/phone/602"
       },
       "response": []
-    },
-    {
-      "name": "Delete- Transferee phone number",
-      "id": "7dc86feb-811c-421a-a57b-b6a19259cb2c",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "DELETE",
-        "header": [],
-        "url": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/654654654564/phone/622654654"
-      },
-      "response": []
     }
   ]
 }
