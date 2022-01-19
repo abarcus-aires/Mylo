@@ -134,19 +134,6 @@
         "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card"
       },
       "response": []
-    },
-    {
-      "name": "GET call for transferee contact card",
-      "id": "dcf42714-037f-4960-b7de-f91095cc9d0e",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/jhgjhhjg/contact-card"
-      },
-      "response": []
     }
   ]
 }
