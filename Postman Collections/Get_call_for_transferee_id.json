@@ -56,19 +56,6 @@
         "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/-^&"
       },
       "response": []
-    },
-    {
-      "name": "Get call for transferee id",
-      "id": "f7fa2af6-4370-4ed4-9a0d-b923594fe9fd",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/-1010"
-      },
-      "response": []
     }
   ]
 }
