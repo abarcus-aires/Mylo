@@ -19,7 +19,7 @@
       "response": []
     },
     {
-      "name": "https://corpuatvl204.aires.com:9015/aires-assignment-api/transferee/654654654564/phone/622654654",
+      "name": "Delete- Transferee phone number",
       "id": "7dc86feb-811c-421a-a57b-b6a19259cb2c",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
