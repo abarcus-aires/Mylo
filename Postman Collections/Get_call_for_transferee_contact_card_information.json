@@ -58,7 +58,7 @@
       "response": []
     },
     {
-      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
+      "name": "GET call for transferee contact card",
       "id": "5bc6fdf8-0264-4565-a2af-ef09fee7d6ad",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
