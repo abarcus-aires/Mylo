@@ -186,41 +186,6 @@
         "url": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/9999999999"
       },
       "response": []
-    },
-    {
-      "name": "Get call for transferee id",
-      "id": "b13c9eb9-4d1d-4711-9648-5e0c9474a3a0",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562012/identification?familyId=",
-          "protocol": "http",
-          "host": [
-            "corpqavl204",
-            "corp",
-            "aires",
-            "com"
-          ],
-          "port": "8005",
-          "path": [
-            "aires-assignment-api",
-            "transferee",
-            "562012",
-            "identification"
-          ],
-          "query": [
-            {
-              "key": "familyId",
-              "value": ""
-            }
-          ]
-        }
-      },
-      "response": []
     }
   ]
 }
