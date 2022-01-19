@@ -6,8 +6,8 @@
   },
   "item": [
     {
-      "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562011/contact-card",
-      "_postman_id": "30999e65-4c8d-4cf5-ae77-d42396d50745",
+      "name": "GET call for transferee contact card",
+      "id": "30999e65-4c8d-4cf5-ae77-d42396d50745",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -20,7 +20,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/90082/contact-card",
-      "_postman_id": "aeb7392a-7cca-4790-8cca-1be295e2bb1f",
+      "id": "aeb7392a-7cca-4790-8cca-1be295e2bb1f",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -33,7 +33,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/495504/contact-card",
-      "_postman_id": "6ec1f196-3f69-4baa-b755-7124883038bc",
+      "id": "6ec1f196-3f69-4baa-b755-7124883038bc",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -46,7 +46,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "981b0d57-26c9-49bf-8c56-f90f51f9f009",
+      "id": "981b0d57-26c9-49bf-8c56-f90f51f9f009",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -59,7 +59,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "5bc6fdf8-0264-4565-a2af-ef09fee7d6ad",
+      "id": "5bc6fdf8-0264-4565-a2af-ef09fee7d6ad",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -72,7 +72,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "049f2313-6d6c-4434-92d7-05daee20a4cb",
+      "id": "049f2313-6d6c-4434-92d7-05daee20a4cb",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -85,7 +85,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "a4116664-f6ca-440e-a27c-e6510e8d0b67",
+      "id": "a4116664-f6ca-440e-a27c-e6510e8d0b67",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -98,7 +98,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "e074abbd-87df-4a55-a6e4-bf580bdba709",
+      "id": "e074abbd-87df-4a55-a6e4-bf580bdba709",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -111,7 +111,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "71252197-07fd-4958-9124-cbecc063f9fd",
+      "id": "71252197-07fd-4958-9124-cbecc063f9fd",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -124,7 +124,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "9fb67f2f-0ea1-46b6-8e8e-6dc454484245",
+      "id": "9fb67f2f-0ea1-46b6-8e8e-6dc454484245",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -137,7 +137,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/jhgjhhjg/contact-card",
-      "_postman_id": "dcf42714-037f-4960-b7de-f91095cc9d0e",
+      "id": "dcf42714-037f-4960-b7de-f91095cc9d0e",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -150,7 +150,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/56208011/contact-card",
-      "_postman_id": "abdd8546-8839-4beb-a1b7-adf8659b8ea8",
+      "id": "abdd8546-8839-4beb-a1b7-adf8659b8ea8",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -163,7 +163,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/56208011/contact-card",
-      "_postman_id": "a21bc756-5936-426e-bae4-269907498648",
+      "id": "a21bc756-5936-426e-bae4-269907498648",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -176,7 +176,7 @@
     },
     {
       "name": "http://corpqavl204.corp.aires.com:8005/aires-assignment-api/transferee/562080/contact-card",
-      "_postman_id": "97f678bf-9caa-45a8-8daf-f18786367607",
+      "id": "97f678bf-9caa-45a8-8daf-f18786367607",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
